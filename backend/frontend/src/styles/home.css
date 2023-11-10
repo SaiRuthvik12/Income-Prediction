@@ -1,0 +1,70 @@
+html,body{
+    height: 100vh;
+}
+
+.homePageRow{
+    height: 100vh;
+    text-align: center;
+}
+
+.homeCol1{
+    
+    background-color: #BCA37F;
+    height: 100vh;
+    padding-top: 10vh;
+    text-align: center;
+}
+
+.homeCol2{
+    background-color: #FFF2D8;
+    height: 100vh;
+    padding-top: 10vh;
+}
+
+.logo{
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+}
+
+.homePageButton{
+    width: 50%;
+    height: 8vh;
+    color: #113946;
+    font-size: 2.5vh;
+    font-weight: bold;
+
+    background-color: #EAD7BB;
+    border-color: #EAD7BB;
+    
+    
+
+}
+
+.homePageButton:hover{
+
+    background-color: #FFF2D8;
+    border-color: #FFF2D8;
+    
+}
+
+.homePageButton2{
+    width: 50%;
+    height: 8vh;
+    color: #113946;
+    font-size: 2.5vh;
+    font-weight: bold;
+
+    background-color: #EAD7BB;
+    border-color: #EAD7BB;
+    
+    
+
+}
+
+.homePageButton2:hover{
+
+    background-color: #BCA37F;
+    border-color: #BCA37F;
+    
+}

@@ -1,0 +1,19 @@
+.containerAnalytics{
+    background-color: #EAD7BB;
+    height: 100%;
+}
+
+.rowAnalytics{
+    text-align: center;
+    padding-top: 8vh;
+}
+
+.analysisImage{
+    width: 50%;
+    height: auto;
+}
+
+.logoAnalytics{
+    width: 20%;
+    height: auto;
+}

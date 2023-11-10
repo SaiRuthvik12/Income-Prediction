@@ -1,0 +1,46 @@
+.containerform{
+    background-color: #EAD7BB;
+}
+
+.heading{
+    font-size: 5vh;
+    font: 2em sans-serif;
+    font-weight: bold;
+    color: #113946;
+    margin-bottom: 7vh;
+    padding-top: 10vh;
+    text-align: center;
+}
+
+.formpageMain{
+    height: 130vh;
+    text-align: center;
+}
+
+.inputField{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    height: 8vh;
+    font-size: 3vh;
+    margin-bottom: 4vh;
+    background-color: #FFF2D8;
+}
+
+.submitButton{
+     width: 30%;
+    height: 8vh;
+    color: #113946;
+    font-size: 2.5vh;
+    font-weight: bold;
+
+    background-color: #BCA37F;
+    border-color: #BCA37F;
+}
+
+.submitButton:hover{
+
+    background-color: #FFF2D8;
+    border-color: #FFF2D8;
+    color: #113946;
+    
+}
